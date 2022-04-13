@@ -3,12 +3,54 @@
     <title>Ålands Bil &amp; Plåt Ab</title>
     <link href="https://henrikssonax.github.io/bilplat/feed.xml" rel="self" />
     <link href="https://henrikssonax.github.io/bilplat" />
-    <updated>2022-04-13T19:36:30+03:00</updated>
+    <updated>2022-04-13T19:43:16+03:00</updated>
     <author>
         <name>Bilplat</name>
     </author>
     <id>https://henrikssonax.github.io/bilplat</id>
 
+    <entry>
+        <title>Skadebesiktning</title>
+        <author>
+            <name>Bilplat</name>
+        </author>
+        <link href="https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning-2.html"/>
+        <id>https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning-2.html</id>
+
+        <updated>2022-04-13T19:43:16+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider. Det går också bra att kontakta oss på telefon eller e-post. Vi gör en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider.<br>Det går också bra att kontakta oss på telefon eller e-post.</p>
+<p>Vi gör en kostnadskalkyl på alla skador till både försäkringsbolag och privatperson.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Försäkringsbolag</title>
+        <author>
+            <name>Bilplat</name>
+        </author>
+        <link href="https://henrikssonax.github.io/bilplat/foersaekringsbolag.html"/>
+        <id>https://henrikssonax.github.io/bilplat/foersaekringsbolag.html</id>
+
+        <updated>2022-04-13T19:39:38+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Ett gott och långt samarbete med alla försäkringsbolag Kontakta först ditt försäkringsbolag om du har en plåskada, gör en skadeanmälan hos dem och&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Ett gott och långt samarbete med alla försäkringsbolag</h1>
+<p>Kontakta först ditt försäkringsbolag om du har en plåskada, gör en skadeanmälan hos dem och kontakta sedan oss.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hem</title>
         <author>
@@ -30,14 +72,14 @@
         </content>
     </entry>
     <entry>
-        <title>Kontakt</title>
+        <title>Kontakt &amp; Tidsbokning</title>
         <author>
             <name>Bilplat</name>
         </author>
         <link href="https://henrikssonax.github.io/bilplat/kontakt.html"/>
         <id>https://henrikssonax.github.io/bilplat/kontakt.html</id>
 
-        <updated>2022-04-13T19:28:53+03:00</updated>
+        <updated>2022-04-13T19:42:05+03:00</updated>
             <summary>
                 <![CDATA[
                     Karlbergsvägen 10 22100 Mariehamn tel. 018 22 446 fax. 018 22 444 e-post: kontakt@bilplat.ax
@@ -47,27 +89,6 @@
             <![CDATA[
                 <p>Karlbergsvägen 10<br>22100 Mariehamn<br>tel. 018 22 446 fax. 018 22 444</p>
 <p>e-post: kontakt@bilplat.ax</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Tidsbokning &amp; skadebesiktning</title>
-        <author>
-            <name>Bilplat</name>
-        </author>
-        <link href="https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning.html"/>
-        <id>https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning.html</id>
-
-        <updated>2022-04-13T19:27:52+03:00</updated>
-            <summary>
-                <![CDATA[
-                    Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider. Det går också vra att kontakta oss på telefon eller e-post. Vi gör en&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider.<br>Det går också vra att kontakta oss på telefon eller e-post.</p>
-<p>Vi gör en kostnadskalkyl på alla skador till både försäkringsbolag och privatperson.</p>
             ]]>
         </content>
     </entry>

@@ -10,6 +10,34 @@
     },
     "items": [
         {
+            "id": "https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning-2.html",
+            "url": "https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning-2.html",
+            "title": "Skadebesiktning",
+            "summary": "Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider. Det går också bra att kontakta oss på telefon eller e-post. Vi gör en&hellip;",
+            "content_html": "<p>Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider.<br>Det går också bra att kontakta oss på telefon eller e-post.</p>\n<p>Vi gör en kostnadskalkyl på alla skador till både försäkringsbolag och privatperson.</p>",
+            "author": {
+                "name": "Bilplat"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-13T19:43:16+03:00",
+            "date_modified": "2022-04-13T19:43:16+03:00"
+        },
+        {
+            "id": "https://henrikssonax.github.io/bilplat/foersaekringsbolag.html",
+            "url": "https://henrikssonax.github.io/bilplat/foersaekringsbolag.html",
+            "title": "Försäkringsbolag",
+            "summary": "Ett gott och långt samarbete med alla försäkringsbolag Kontakta först ditt försäkringsbolag om du har en plåskada, gör en skadeanmälan hos dem och&hellip;",
+            "content_html": "<h1>Ett gott och långt samarbete med alla försäkringsbolag</h1>\n<p>Kontakta först ditt försäkringsbolag om du har en plåskada, gör en skadeanmälan hos dem och kontakta sedan oss.</p>",
+            "author": {
+                "name": "Bilplat"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-13T19:39:38+03:00",
+            "date_modified": "2022-04-13T19:39:38+03:00"
+        },
+        {
             "id": "https://henrikssonax.github.io/bilplat/hem.html",
             "url": "https://henrikssonax.github.io/bilplat/hem.html",
             "title": "Hem",
@@ -26,7 +54,7 @@
         {
             "id": "https://henrikssonax.github.io/bilplat/kontakt.html",
             "url": "https://henrikssonax.github.io/bilplat/kontakt.html",
-            "title": "Kontakt",
+            "title": "Kontakt &amp; Tidsbokning",
             "summary": "Karlbergsvägen 10 22100 Mariehamn tel. 018 22 446 fax. 018 22 444 e-post: kontakt@bilplat.ax",
             "content_html": "<p>Karlbergsvägen 10<br>22100 Mariehamn<br>tel. 018 22 446 fax. 018 22 444</p>\n<p>e-post: kontakt@bilplat.ax</p>",
             "author": {
@@ -35,21 +63,7 @@
             "tags": [
             ],
             "date_published": "2022-04-13T19:28:53+03:00",
-            "date_modified": "2022-04-13T19:28:53+03:00"
-        },
-        {
-            "id": "https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning.html",
-            "url": "https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning.html",
-            "title": "Tidsbokning &amp; skadebesiktning",
-            "summary": "Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider. Det går också vra att kontakta oss på telefon eller e-post. Vi gör en&hellip;",
-            "content_html": "<p>Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider.<br>Det går också vra att kontakta oss på telefon eller e-post.</p>\n<p>Vi gör en kostnadskalkyl på alla skador till både försäkringsbolag och privatperson.</p>",
-            "author": {
-                "name": "Bilplat"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-04-13T19:27:13+03:00",
-            "date_modified": "2022-04-13T19:27:52+03:00"
+            "date_modified": "2022-04-13T19:42:05+03:00"
         },
         {
             "id": "https://henrikssonax.github.io/bilplat/vi-utfoer.html",
