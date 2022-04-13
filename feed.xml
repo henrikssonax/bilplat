@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Ålands Bil &amp; Plåt Ab</title>
-    <link href="https://henrikssonax.github.io/bilplat/feed.xml" rel="self" />
-    <link href="https://henrikssonax.github.io/bilplat" />
+    <link href="https://bilplat.ax/feed.xml" rel="self" />
+    <link href="https://bilplat.ax" />
     <updated>2022-04-13T22:06:28+03:00</updated>
     <author>
         <name>Bilplat</name>
     </author>
-    <id>https://henrikssonax.github.io/bilplat</id>
+    <id>https://bilplat.ax</id>
 
     <entry>
         <title>Skadebesiktning</title>
         <author>
             <name>Bilplat</name>
         </author>
-        <link href="https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning-2.html"/>
-        <id>https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning-2.html</id>
+        <link href="https://bilplat.ax/tidsbokning-and-skadebesiktning-2.html"/>
+        <id>https://bilplat.ax/tidsbokning-and-skadebesiktning-2.html</id>
 
         <updated>2022-04-13T19:43:16+03:00</updated>
             <summary>
@@ -35,8 +35,8 @@
         <author>
             <name>Bilplat</name>
         </author>
-        <link href="https://henrikssonax.github.io/bilplat/foersaekringsbolag.html"/>
-        <id>https://henrikssonax.github.io/bilplat/foersaekringsbolag.html</id>
+        <link href="https://bilplat.ax/foersaekringsbolag.html"/>
+        <id>https://bilplat.ax/foersaekringsbolag.html</id>
 
         <updated>2022-04-13T19:39:38+03:00</updated>
             <summary>
@@ -56,8 +56,8 @@
         <author>
             <name>Bilplat</name>
         </author>
-        <link href="https://henrikssonax.github.io/bilplat/hem.html"/>
-        <id>https://henrikssonax.github.io/bilplat/hem.html</id>
+        <link href="https://bilplat.ax/hem.html"/>
+        <id>https://bilplat.ax/hem.html</id>
 
         <updated>2022-04-13T22:06:28+03:00</updated>
             <summary>
@@ -76,8 +76,8 @@
         <author>
             <name>Bilplat</name>
         </author>
-        <link href="https://henrikssonax.github.io/bilplat/kontakt.html"/>
-        <id>https://henrikssonax.github.io/bilplat/kontakt.html</id>
+        <link href="https://bilplat.ax/kontakt.html"/>
+        <id>https://bilplat.ax/kontakt.html</id>
 
         <updated>2022-04-13T19:42:05+03:00</updated>
             <summary>
@@ -97,8 +97,8 @@
         <author>
             <name>Bilplat</name>
         </author>
-        <link href="https://henrikssonax.github.io/bilplat/vi-utfoer.html"/>
-        <id>https://henrikssonax.github.io/bilplat/vi-utfoer.html</id>
+        <link href="https://bilplat.ax/vi-utfoer.html"/>
+        <id>https://bilplat.ax/vi-utfoer.html</id>
 
         <updated>2022-04-13T22:05:28+03:00</updated>
             <summary>
