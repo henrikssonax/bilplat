@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://henrikssonax.github.io/bilplat/hem.html",
+            "url": "https://henrikssonax.github.io/bilplat/hem.html",
+            "title": "Hem",
+            "summary": "Vi på Ålands Bil &amp; Plåt Ab har utfört pålitliga reparationer sedan 1974, vi har kompetent personal med lång yrkeserfarenhet inom branschen och&hellip;",
+            "content_html": "<p>Vi på Ålands Bil &amp; Plåt Ab har utfört pålitliga reparationer sedan 1974, vi har kompetent personal med lång yrkeserfarenhet inom branschen och vi samarbetar med samtliga försäkringsbolag. Vi tar hand om stora som små skador på i storst sätt alla fordon och märken t.ex. bilar, entreprenadmaskiner, lantbruksmaskeiner och redskap m.m.</p>",
+            "author": {
+                "name": "Bilplat"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-13T19:36:26+03:00",
+            "date_modified": "2022-04-13T19:36:30+03:00"
+        },
+        {
             "id": "https://henrikssonax.github.io/bilplat/kontakt.html",
             "url": "https://henrikssonax.github.io/bilplat/kontakt.html",
             "title": "Kontakt",

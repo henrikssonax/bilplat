@@ -3,12 +3,32 @@
     <title>Ålands Bil &amp; Plåt Ab</title>
     <link href="https://henrikssonax.github.io/bilplat/feed.xml" rel="self" />
     <link href="https://henrikssonax.github.io/bilplat" />
-    <updated>2022-04-13T19:28:53+03:00</updated>
+    <updated>2022-04-13T19:36:30+03:00</updated>
     <author>
         <name>Bilplat</name>
     </author>
     <id>https://henrikssonax.github.io/bilplat</id>
 
+    <entry>
+        <title>Hem</title>
+        <author>
+            <name>Bilplat</name>
+        </author>
+        <link href="https://henrikssonax.github.io/bilplat/hem.html"/>
+        <id>https://henrikssonax.github.io/bilplat/hem.html</id>
+
+        <updated>2022-04-13T19:36:30+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Vi på Ålands Bil &amp; Plåt Ab har utfört pålitliga reparationer sedan 1974, vi har kompetent personal med lång yrkeserfarenhet inom branschen och&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vi på Ålands Bil &amp; Plåt Ab har utfört pålitliga reparationer sedan 1974, vi har kompetent personal med lång yrkeserfarenhet inom branschen och vi samarbetar med samtliga försäkringsbolag. Vi tar hand om stora som små skador på i storst sätt alla fordon och märken t.ex. bilar, entreprenadmaskiner, lantbruksmaskeiner och redskap m.m.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kontakt</title>
         <author>
