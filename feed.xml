@@ -3,10 +3,75 @@
     <title>Ålands Bil &amp; Plåt Ab</title>
     <link href="https://henrikssonax.github.io/bilplat/feed.xml" rel="self" />
     <link href="https://henrikssonax.github.io/bilplat" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2022-04-13T19:28:53+03:00</updated>
     <author>
         <name>Bilplat</name>
     </author>
     <id>https://henrikssonax.github.io/bilplat</id>
 
+    <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Bilplat</name>
+        </author>
+        <link href="https://henrikssonax.github.io/bilplat/kontakt.html"/>
+        <id>https://henrikssonax.github.io/bilplat/kontakt.html</id>
+
+        <updated>2022-04-13T19:28:53+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Karlbergsvägen 10 22100 Mariehamn tel. 018 22 446 fax. 018 22 444 e-post: kontakt@bilplat.ax
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Karlbergsvägen 10<br>22100 Mariehamn<br>tel. 018 22 446 fax. 018 22 444</p>
+<p>e-post: kontakt@bilplat.ax</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Tidsbokning &amp; skadebesiktning</title>
+        <author>
+            <name>Bilplat</name>
+        </author>
+        <link href="https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning.html"/>
+        <id>https://henrikssonax.github.io/bilplat/tidsbokning-and-skadebesiktning.html</id>
+
+        <updated>2022-04-13T19:27:52+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider. Det går också vra att kontakta oss på telefon eller e-post. Vi gör en&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Vi har drop-in skadebesiktning och tidsbokning inom våra öppettider.<br>Det går också vra att kontakta oss på telefon eller e-post.</p>
+<p>Vi gör en kostnadskalkyl på alla skador till både försäkringsbolag och privatperson.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Vi utför</title>
+        <author>
+            <name>Bilplat</name>
+        </author>
+        <link href="https://henrikssonax.github.io/bilplat/vi-utfoer.html"/>
+        <id>https://henrikssonax.github.io/bilplat/vi-utfoer.html</id>
+
+        <updated>2022-04-13T19:25:23+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Riktning svetsning plåt m.m. Dragriktning/måttriktning i riktbänk Stenskottsreparationer Vindrutebyten Tillverkning av övningsbromsar Plastreparationer Reparationer av rostangrepp AC-service Lackering av fordon och allt inom&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Riktning svetsning plåt m.m.<br>Dragriktning/måttriktning i riktbänk<br>Stenskottsreparationer<br>Vindrutebyten<br>Tillverkning av övningsbromsar<br>Plastreparationer<br>Reparationer av rostangrepp<br>AC-service<br>Lackering av fordon och allt inom industri<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
