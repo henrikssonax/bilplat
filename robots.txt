@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://henrikssonax.github.io/bilplat/sitemap.xml
